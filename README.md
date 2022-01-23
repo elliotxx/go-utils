@@ -7,6 +7,8 @@
 
 A golang utils pkg
 
+**This library has been archived. See here [elliotxx/gulu](https://github.com/elliotxx/gulu) for the new repo.**
+
 # Test
 Enter the package directory and execute `make`
 ```
